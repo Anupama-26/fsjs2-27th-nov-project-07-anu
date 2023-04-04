@@ -3,4 +3,4 @@
 - ## In this Project I have build Clone of [VS code ]()
 - ## i have build this entired UI of VS Code Website with Tailwind CSS.
 ---
-- ##[project live link]()
+- ## [project live link](https://loquacious-unicorn-082d8a.netlify.app/)
